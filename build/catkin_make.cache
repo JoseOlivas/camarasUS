@@ -1,2 +1,2 @@
-
--DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/nepptuno/camarasUS/devel -DCMAKE_INSTALL_PREFIX=/home/nepptuno/camarasUS/install -G Unix Makefiles
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/nepptuno/camarasUS/devel -DCMAKE_INSTALL_PREFIX=/home/nepptuno/camarasUS/install -G Unix Makefiles
